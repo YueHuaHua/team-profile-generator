@@ -65,7 +65,7 @@ Please take a look at our contributing guidelines below if you're interested in 
 
 Test the application by typing `npm i jest` in the terminal. This application has passed the test by [`Jest`](https://www.npmjs.com/package/jest) package.
 
-![Application testing](./assets/img/readme-10-test.JPG)
+![Application testing](./assets/img/readme-08-test.JPG)
 
 </br>
 

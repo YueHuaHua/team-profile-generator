@@ -47,7 +47,7 @@ Start the application by typing `node index.js` command or `npm start`. Answer e
 ![Usage Step 3](./assets/img/readme-05-step-5.JPG)
 6. Check the freshly generated `team.html` webpage file in the `output` folder. 
 ![Usage Step 4](./assets/img/readme-06-step-6.JPG) 
-7. Open the `team.html` file in the browser to see the result.
+7. Open the `team.html` file in the browser to see the result or click [here](output/team.html).
 ![Usage Step 4](./assets/img/readme-07-step-7.JPG) 
 
 </br>

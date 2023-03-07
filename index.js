@@ -159,7 +159,6 @@ function menu() {
 
     // ends the program
     generateWebpage = () => {
-        console.log(outputPath);
         console.log('Generated webpage complete!');
         // writes the html file in the outputPath folder using the imported render() function
         fs.writeFile(outputPath, render(team), (err) => {

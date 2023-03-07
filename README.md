@@ -36,60 +36,19 @@ Application can also be accessed at here [YueHuaHua GitHub repository👾](https
 Start the application by typing `node index.js` command or `npm start`. Answer each question required to create employee profiles, and the webpage will be generated in the `output` folder on your machine. Watch this 📽 [video](assets/img/demo-video.mp4) to see the demo or click [here](https://www.dropbox.com/s/spktbbim3tqmhmv/demo-video.mp4?dl=0) to download.
 
 1. Invoke the application by typing `node index.js`.
-
-</br>
-
 ![Usage Step 1](./assets/img/readme-01-step-1.JPG)
-
-</br>
-
 2. Starting the application prompts with information for the manager, then prompts for what to do next.
-
-</br>
-
 ![Usage Step 2](./assets/img/readme-02-step-2.JPG)
-
-</br>
-
 3. Selecting `Engineer` gives a series of prompts specific to the engineer.
-
-</br>
-
 ![Usage Step 3](./assets/img/readme-03-step-3.JPG)
-
-</br>
-
 4. Selecting `Intern` gives a series of prompts specific to the intern.
-
-</br>
-
 ![Usage Step 3](./assets/img/readme-04-step-4.JPG)
-
-</br>
-
 5. Selecting `Exit program` ends the application.
-
-</br>
-
 ![Usage Step 3](./assets/img/readme-05-step-5.JPG)
-
-</br>
-
 6. Check the freshly generated `team.html` webpage file in the `output` folder. 
-
-</br>
-
 ![Usage Step 4](./assets/img/readme-06-step-6.JPG) 
-
-</br>
-
 7. Open the `team.html` file in the browser to see the result.
-
-</br>
-
 ![Usage Step 4](./assets/img/readme-07-step-7.JPG) 
-
-</br>
 
 </br>
 
@@ -106,7 +65,7 @@ Please take a look at our contributing guidelines below if you're interested in 
 
 Test the application by typing `npm i jest` in the terminal. This application has passed the test by [`Jest`](https://www.npmjs.com/package/jest) package.
 
-![Application testing](./assets/img/readme-08-test.JPG)
+![Application testing](./assets/img/readme-10-test.JPG)
 
 </br>
 

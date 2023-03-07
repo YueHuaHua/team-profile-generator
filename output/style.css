@@ -1,0 +1,15 @@
+:root {
+    --pacific-bridge: #0052cc;
+    --white: #fff;
+}
+
+.team-heading,
+.card-header {
+    background-color: var(--pacific-bridge);
+    color: var(--white);
+}
+
+.employee-card:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.5);
+    transform: scale(1.02);
+}
